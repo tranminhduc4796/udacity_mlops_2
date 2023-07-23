@@ -30,6 +30,7 @@ In this project you will build such a pipeline.
   * [Release the pipeline](#release-the-pipeline)
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
+- [Assignment](#assignment)
 
 ## Preliminary steps
 ### Fork the Starter kit
@@ -567,3 +568,8 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+
+## Assignment
+- Github link: https://github.com/tranminhduc4796/udacity_mlops_2.git
+- W&B Project link: https://wandb.ai/solo_player/nyc_airbnb/table?workspace=user-vippro4796
